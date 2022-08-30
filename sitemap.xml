@@ -1,59 +1,64 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-	<loc>https://hibrpro.netlify.app/</loc>
-	<lastmod>2022-08-28T18:58:21+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hibrpro.netlify.app/index.html</loc>
-	<lastmod>2022-08-28T18:58:21+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hibrpro.netlify.app/Quran.html</loc>
-	<lastmod>2022-08-28T18:58:21+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hibrpro.netlify.app/Prayers.html</loc>
-	<lastmod>2022-08-28T18:58:21+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hibrpro.netlify.app/dua.html</loc>
-	<lastmod>2022-08-28T18:58:21+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hibrpro.netlify.app/Books.html</loc>
-	<lastmod>2022-08-28T18:58:21+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hibrpro.netlify.app/history.html</loc>
-	<lastmod>2022-08-28T18:58:21+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hibrpro.netlify.app/contact.html</loc>
-	<lastmod>2022-08-28T18:58:21+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hibrpro.netlify.app/quran</loc>
-	<lastmod>2022-08-28T18:58:22+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hibrpro.netlify.app/prayers</loc>
-	<lastmod>2022-08-28T18:58:23+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://hibrpro.netlify.app/books</loc>
-	<lastmod>2022-08-28T18:58:23+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="
+          http://www.sitemaps.org/schemas/sitemap/0.9
+          http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+
+     <url>
+          <loc>https://hibrpro.netlify.app/</loc>
+          <lastmod>2022-08-30T20:24:54+00:00</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0000</priority>
+     </url>
+     <url>
+          <loc>https://hibrpro.netlify.app/index.html</loc>
+          <lastmod>2022-08-30T20:24:54+00:00</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.8000</priority>
+     </url>
+     <url>
+          <loc>https://hibrpro.netlify.app/dua.html</loc>
+          <lastmod>2022-08-30T20:24:54+00:00</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.8000</priority>
+     </url>
+     <url>
+          <loc>https://hibrpro.netlify.app/history.html</loc>
+          <lastmod>2022-08-30T20:24:54+00:00</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.8000</priority>
+     </url>
+     <url>
+          <loc>https://hibrpro.netlify.app/vedios.html</loc>
+          <lastmod>2022-08-30T20:24:54+00:00</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.8000</priority>
+     </url>
+     <url>
+          <loc>https://hibrpro.netlify.app/contact.html</loc>
+          <lastmod>2022-08-30T20:24:54+00:00</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.8000</priority>
+     </url>
+     <url>
+          <loc>https://hibrpro.netlify.app/quran</loc>
+          <lastmod>2022-08-30T20:24:54+00:00</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.6400</priority>
+     </url>
+     <url>
+          <loc>https://hibrpro.netlify.app/prayers</loc>
+          <lastmod>2022-08-30T20:24:54+00:00</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.6400</priority>
+     </url>
+     <url>
+          <loc>https://hibrpro.netlify.app/books</loc>
+          <lastmod>2022-08-30T20:24:54+00:00</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>0.6400</priority>
+     </url>
 </urlset>
