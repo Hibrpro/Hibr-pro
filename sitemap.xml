@@ -14,13 +14,13 @@
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>https://hibrpro.netlify.app/Quran.html</loc>
+		<loc>https://hibrpro.netlify.app/quran.html</loc>
 		<lastmod>2022-08-31</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>https://hibrpro.netlify.app/Prayers.html</loc>
+		<loc>https://hibrpro.netlify.app/prayers.html</loc>
 		<lastmod>2022-08-31</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
@@ -32,7 +32,7 @@
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>https://hibrpro.netlify.app/Books.html</loc>
+		<loc>https://hibrpro.netlify.app/books.html</loc>
 		<lastmod>2022-08-31</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
