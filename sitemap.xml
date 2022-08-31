@@ -2,57 +2,57 @@
   <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 	<url>
-          <loc>https://hibrpro.netlify.app/</loc>
+          <loc>http://hibrpro.netlify.app/</loc>
           <lastmod>2022-08-30T20:24:54+00:00</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0000</priority>
      </url>
      
 	 <url>
-          <loc>https://hibrpro.netlify.app/index.html</loc>
+          <loc>http://hibrpro.netlify.app/index.html</loc>
           <lastmod>2022-08-30T20:24:54+00:00</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.8000</priority>
      </url>
 	
 	  <url>
-          <loc>https://hibrpro.netlify.app/quran.html</loc>
+          <loc>http://hibrpro.netlify.app/quran.html</loc>
           <lastmod>2022-08-30T20:24:54+00:00</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.8000</priority>
      </url>
 	   <url>
-          <loc>https://hibrpro.netlify.app/prayers.html</loc>
+          <loc>http://hibrpro.netlify.app/prayers.html</loc>
           <lastmod>2022-08-30T20:24:54+00:00</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.8000</priority>
      </url>
 	 <url>
-          <loc>https://hibrpro.netlify.app/dua.html</loc>
+          <loc>http://hibrpro.netlify.app/dua.html</loc>
           <lastmod>2022-08-30T20:24:54+00:00</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.8000</priority>
      </url>
 	 <url>
-          <loc>https://hibrpro.netlify.app/books.html</loc>
+          <loc>http://hibrpro.netlify.app/books.html</loc>
           <lastmod>2022-08-30T20:24:54+00:00</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.8000</priority>
      </url>
 	 <url>
-          <loc>https://hibrpro.netlify.app/history.html</loc>
+          <loc>http://hibrpro.netlify.app/history.html</loc>
           <lastmod>2022-08-30T20:24:54+00:00</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.8000</priority>
      </url>
 	   <url>
-          <loc>https://hibrpro.netlify.app/vedios.html</loc>
+          <loc>http://hibrpro.netlify.app/vedios.html</loc>
           <lastmod>2022-08-30T20:24:54+00:00</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.8000</priority>
      </url>
 	<url>
-          <loc>https://hibrpro.netlify.app/contact.html</loc>
+          <loc>http://hibrpro.netlify.app/contact.html</loc>
           <lastmod>2022-08-30T20:24:54+00:00</lastmod>
           <changefreq>daily</changefreq>
           <priority>0.8000</priority>
