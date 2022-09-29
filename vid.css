@@ -1,0 +1,7 @@
+.vid {
+    max-height: 320px;
+    min-height: 300px;
+
+    max-width: 600px;
+    min-width: 400px;
+}
